@@ -63,7 +63,7 @@ This is a simple ATM interface implemented in Python. It allows users to check b
 
 ## Author
 
-- [KalaiVorteX](https://github.com/KalaiVorteX)
+- [ashika-016-srm](https://github.com/ashika-016-srm)
 
 Feel free to contribute and improve this project!
 
