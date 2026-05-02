@@ -1,5 +1,3 @@
-# ATM-Interface-Source
-About This Python code implements a basic ATM interface. It includes functionalities to check balance, deposit, and withdraw money. Users can interact with the ATM through a simple command-line interface
 import os
 
 class ATM:
@@ -63,7 +61,7 @@ This is a simple ATM interface implemented in Python. It allows users to check b
 
 ## Author
 
-- [ashika-016-srm](https://github.com/ashika-016-srm)
+- [Samrocz05](https://github.com/Samrocz05)
 
 Feel free to contribute and improve this project!
 
